@@ -43,7 +43,7 @@ end
 disp(diameter);
 
 F=1.1714e+03;
-%Calculated using standard image.
+%Calculated using standard image im.jpg used in the code trial.m.
 W=10.85;
 %Measured by ruler.
 P=diameter;
